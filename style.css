@@ -13,8 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: #bebebe; */
-    background: linear-gradient(90deg, #8f8f9c, #63ae91);
+    background: linear-gradient(90deg, hsl(57, 87%, 79%), #63ae91);
   }
   
   .container {
